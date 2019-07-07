@@ -1,0 +1,19 @@
+{
+  "name": "hexo-filter-minify",
+  "description": "A hexo plugin use to minify html,css,javascript code.",
+  "version": "0.0.1",
+  "keywords": [
+    "hexo plugin",
+    "minify",
+    "uglify"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/zowiegong/hexo-filter-minify.git",
+  "author": "zowiegong <zowiegong@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-minifier": "^4.0.0",
+    "uglify-es": "^3.3.9",
+    "uglifycss": "^0.0.29"
+  }
+}
